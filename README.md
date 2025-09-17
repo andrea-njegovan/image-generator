@@ -5,9 +5,9 @@
 
 [Discord](https://discord.gg/tVAPZfKk8Z)
 
-My Email: shawnesquivel24@gmail.com
+My Email: andreanjegovan@gmail.com
 
-My Linkedin: https://www.linkedin.com/in/shawnesquivel
+My Linkedin: https://www.linkedin.com/in/andrea-njegovan-5ab87668
 
 ## Udemy Course
 Use Cursor to Vibe Code Full Stack Apps (MCP, NextJS, Supabase)
